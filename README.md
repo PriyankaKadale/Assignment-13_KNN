@@ -30,5 +30,5 @@ Type: Type of glass: (class attribute)
  6 --tableware
  7 --headlamps
 
-#Assignment-13_KNN_Zoo_Dataset
+# Assignment-13_KNN_Zoo_Dataset
 Implement a KNN model to classify the animals in to categorie
